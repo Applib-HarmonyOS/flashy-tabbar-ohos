@@ -1,2 +1,1 @@
-include ':app', ':flashytabbarandroid'
-rootProject.name='FlashyTabbarSampleApp'
+include ':entry', ':flashytabbarohos'

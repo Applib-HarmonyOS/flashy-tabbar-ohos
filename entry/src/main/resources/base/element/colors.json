@@ -1,0 +1,29 @@
+{
+  "color": [
+    {
+      "name": "home",
+      "value": "#f4ab29"
+    },
+    {
+      "name": "clock",
+      "value": "#5538b0"
+    },
+    {
+      "name": "folder",
+      "value": "#a9418f"
+    },
+    {
+      "name": "menu",
+      "value": "#4290a3"
+    },
+    {
+      "name": "black",
+      "value": "#000000"
+    }
+  ,
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    }
+  ]
+}

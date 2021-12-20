@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:alignment="bottom"
+    ohos:total_weight="7"
+    ohos:orientation="vertical">
+
+
+    <PageSlider
+        ohos:id="$+id:slider"
+        ohos:width="match_parent"
+        ohos:height="400vp"
+        ohos:weight="5"
+        />
+
+    <com.cuberto.flashytabbarohos.TabLayoutv2
+        ohos:id="$+id:tablayout"
+        ohos:weight ="2"
+        ohos:height="match_content"
+        ohos:width="match_content">
+
+    </com.cuberto.flashytabbarohos.TabLayoutv2>
+
+</DirectionalLayout>

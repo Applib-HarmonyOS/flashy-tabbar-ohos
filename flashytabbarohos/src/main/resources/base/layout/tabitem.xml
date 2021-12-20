@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout xmlns:ohos="http://schemas.huawei.com/res/ohos"
+                   ohos:id="$+id:tab"
+                   ohos:width="match_content"
+                   ohos:height="match_content"
+                   >
+    <DirectionalLayout
+        xmlns:ohos="http://schemas.huawei.com/res/ohos"
+        ohos:id="$+id:innertab"
+        ohos:height="match_content"
+        ohos:width="match_content"
+        ohos:orientation="vertical"
+        ohos:left_padding="50vp"
+        ohos:right_padding="40vp"
+        ohos:top_padding="30vp"
+        ohos:bottom_padding="1vp"
+        >
+
+        <Image
+            ohos:id="$+id:tabimage"
+            ohos:height="80vp"
+            ohos:width="80vp" />
+
+        <Text
+            ohos:id="$+id:tabtext"
+            ohos:height="match_content"
+            ohos:width="match_content"
+            ohos:text_size="30vp"
+            ohos:text_color="$color:black" />
+
+    </DirectionalLayout>
+
+</DirectionalLayout>
