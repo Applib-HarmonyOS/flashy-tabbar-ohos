@@ -70,7 +70,6 @@ public class PageViewAdapter extends PageSliderProvider {
      */
     @Override
     public String getPageTitle(int position) {
-//        List<AbstractPageView> abstractPageViews = (List<AbstractPageView>) pageViews;
         return pageViews.get(position).getName();
     }
 
