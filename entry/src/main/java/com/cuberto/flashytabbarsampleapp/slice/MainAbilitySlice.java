@@ -63,7 +63,7 @@ public class MainAbilitySlice extends AbilitySlice {
         tabFlashyAnimator.addTabItem(titles[1], ResourceTable.Media_ic_highlights,colors[1]);
         tabFlashyAnimator.addTabItem(titles[2], ResourceTable.Media_ic_search, colors[2]);
         tabFlashyAnimator.addTabItem(titles[3], ResourceTable.Media_ic_settings, colors[3]);
-        tabFlashyAnimator.highLightTab(0);
+        tabFlashyAnimator.highLightTab(0); //highlight first tab
         mPager.addPageChangedListener( tabFlashyAnimator);
 
         tabFlashyAnimator.Start();
