@@ -1,0 +1,25 @@
+{
+  "app": {
+    "bundleName": "com.cuberto.flashytabbarsampleapp",
+    "vendor": "cuberto",
+    "version": {
+      "code": 1000000,
+      "name": "1.0.0"
+    }
+  },
+  "deviceConfig": {
+  },
+  "module": {
+    "package": "com.cuberto.flashytabbarohos",
+    "deviceType": [
+      "phone",
+      "tablet",
+      "tv"
+    ],
+    "distro": {
+      "deliveryWithInstall": true,
+      "moduleName": "flashytabbarohos",
+      "moduleType": "har"
+    }
+  }
+}
